@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>CS-320 Notes</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on CS-320 Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Pumping Lema</title>
+    <link>https://quartz.jzhao.xyz/Topic/Pumping-Lema</link>
+    <guid>https://quartz.jzhao.xyz/Topic/Pumping-Lema</guid>
+    <description> Let L be a regular language over some alphabet \Sigma.</description>
+    <pubDate>Tue, 25 Mar 2025 19:52:27 GMT</pubDate>
+  </item><item>
+    <title>lectures</title>
+    <link>https://quartz.jzhao.xyz/lectures</link>
+    <guid>https://quartz.jzhao.xyz/lectures</guid>
+    <description>CS-320 L01a.pdf CS-320 L01b.pdf CS-320 L02.pdf CS-320 lec03a.pdf CS-320 lec03b.pdf CS-320 lec04a.pdf CS-320 lec04b.pdf cs-320 lec05a.pdf cs-320 lec06a.pdf cs-320 lec06b.pdf cs-320 lec07a.pdf cs-320 lec07b.pdf.</description>
+    <pubDate>Tue, 25 Mar 2025 19:46:49 GMT</pubDate>
+  </item><item>
+    <title>exercises</title>
+    <link>https://quartz.jzhao.xyz/exercises</link>
+    <guid>https://quartz.jzhao.xyz/exercises</guid>
+    <description> ex-01.pdf ex-01-sol.pdf ex-02.pdf ex-02-sol.pdf ex-03.pdf ex-03-sol.pdf .</description>
+    <pubDate>Tue, 25 Mar 2025 18:57:57 GMT</pubDate>
+  </item><item>
+    <title>Computer Language Processing</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Introduction to The project I realised that for me, the best way to get motivated to study a subject is to get tangible results from the learning that I can showcase.</description>
+    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
