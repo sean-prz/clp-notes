@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>CS-300</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on CS-300</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>CS-300 N06</title>
+    <link>https://quartz.jzhao.xyz/Notes/CS-300-N06</link>
+    <guid>https://quartz.jzhao.xyz/Notes/CS-300-N06</guid>
+    <description>Hashing Sorting .</description>
+    <pubDate>Mon, 24 Mar 2025 16:45:55 GMT</pubDate>
+  </item><item>
+    <title>Sorting</title>
+    <link>https://quartz.jzhao.xyz/Notes/Sorting</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Sorting</guid>
+    <description>2-way sorting.</description>
+    <pubDate>Mon, 24 Mar 2025 16:45:35 GMT</pubDate>
+  </item><item>
+    <title>2-way sorting</title>
+    <link>https://quartz.jzhao.xyz/Notes/2-way-sorting</link>
+    <guid>https://quartz.jzhao.xyz/Notes/2-way-sorting</guid>
+    <description></description>
+    <pubDate>Mon, 24 Mar 2025 16:45:35 GMT</pubDate>
+  </item><item>
+    <title>Linear Hashing</title>
+    <link>https://quartz.jzhao.xyz/Notes/Linear-Hashing</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Linear-Hashing</guid>
+    <description> Insertion .</description>
+    <pubDate>Mon, 24 Mar 2025 16:44:52 GMT</pubDate>
+  </item><item>
+    <title>Hashing</title>
+    <link>https://quartz.jzhao.xyz/Notes/Hashing</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Hashing</guid>
+    <description> Linear Probe hashing Chained Hashing Extendible Hashing Linear Hashing .</description>
+    <pubDate>Mon, 24 Mar 2025 16:43:29 GMT</pubDate>
+  </item><item>
+    <title>Intra-node search</title>
+    <link>https://quartz.jzhao.xyz/Notes/Intra-node-search</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Intra-node-search</guid>
+    <description></description>
+    <pubDate>Mon, 17 Mar 2025 09:57:32 GMT</pubDate>
+  </item><item>
+    <title>B-tree</title>
+    <link>https://quartz.jzhao.xyz/Notes/B-tree</link>
+    <guid>https://quartz.jzhao.xyz/Notes/B-tree</guid>
+    <description> B-tree operations B-tree concurrent access Intra-node search.</description>
+    <pubDate>Mon, 17 Mar 2025 09:57:31 GMT</pubDate>
+  </item><item>
+    <title>B-tree concurrent access</title>
+    <link>https://quartz.jzhao.xyz/Notes/B-tree-concurrent-access</link>
+    <guid>https://quartz.jzhao.xyz/Notes/B-tree-concurrent-access</guid>
+    <description> w.</description>
+    <pubDate>Mon, 17 Mar 2025 09:57:25 GMT</pubDate>
+  </item><item>
+    <title>B-tree deletion</title>
+    <link>https://quartz.jzhao.xyz/Notes/B-tree-deletion</link>
+    <guid>https://quartz.jzhao.xyz/Notes/B-tree-deletion</guid>
+    <description> See example in CS-300 N05.</description>
+    <pubDate>Mon, 17 Mar 2025 09:54:24 GMT</pubDate>
+  </item><item>
+    <title>B-tree operations</title>
+    <link>https://quartz.jzhao.xyz/Notes/B-tree-operations</link>
+    <guid>https://quartz.jzhao.xyz/Notes/B-tree-operations</guid>
+    <description> B-tree Lookup B-tree insertion B-tree deletion .</description>
+    <pubDate>Mon, 17 Mar 2025 09:54:04 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
