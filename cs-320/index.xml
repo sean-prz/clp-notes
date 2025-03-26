@@ -10,35 +10,41 @@
     <link>https://quartz.jzhao.xyz/lectures</link>
     <guid>https://quartz.jzhao.xyz/lectures</guid>
     <description>CS-320 L01a.pdf CS-320 L01b.pdf CS-320 L02.pdf CS-320 lec03a.pdf CS-320 lec03b.pdf CS-320 lec04a.pdf CS-320 lec04b.pdf cs-320 lec05a.pdf cs-320 lec06a.pdf cs-320 lec06b.pdf cs-320 lec07a.pdf cs-320 lec07b.pdf.</description>
-    <pubDate>Wed, 26 Mar 2025 16:22:27 GMT</pubDate>
+    <pubDate>Wed, 26 Mar 2025 17:10:00 GMT</pubDate>
   </item><item>
     <title>exercises</title>
     <link>https://quartz.jzhao.xyz/exercises</link>
     <guid>https://quartz.jzhao.xyz/exercises</guid>
     <description> ex-01.pdf ex-01-sol.pdf ex-02.pdf ex-02-sol.pdf ex-03.pdf ex-03-sol.pdf .</description>
-    <pubDate>Wed, 26 Mar 2025 16:22:27 GMT</pubDate>
+    <pubDate>Wed, 26 Mar 2025 17:10:00 GMT</pubDate>
   </item><item>
     <title>Nullable-First-Follow</title>
     <link>https://quartz.jzhao.xyz/Topic/Nullable-First-Follow</link>
     <guid>https://quartz.jzhao.xyz/Topic/Nullable-First-Follow</guid>
     <description>Nullable is needed to compute First sets.</description>
-    <pubDate>Wed, 26 Mar 2025 16:22:27 GMT</pubDate>
+    <pubDate>Wed, 26 Mar 2025 17:10:00 GMT</pubDate>
   </item><item>
-    <title>Parsing Tables</title>
-    <link>https://quartz.jzhao.xyz/Topic/Parsing-Tables</link>
-    <guid>https://quartz.jzhao.xyz/Topic/Parsing-Tables</guid>
-    <description></description>
-    <pubDate>Wed, 26 Mar 2025 16:22:27 GMT</pubDate>
+    <title>LL(1)</title>
+    <link>https://quartz.jzhao.xyz/Topic/LL(1)</link>
+    <guid>https://quartz.jzhao.xyz/Topic/LL(1)</guid>
+    <description>Checking if LL(1) Parsing tables .</description>
+    <pubDate>Wed, 26 Mar 2025 17:10:00 GMT</pubDate>
   </item><item>
     <title>Pumping Lema</title>
     <link>https://quartz.jzhao.xyz/Topic/Pumping-Lema</link>
     <guid>https://quartz.jzhao.xyz/Topic/Pumping-Lema</guid>
     <description>Let L be a regular language over some alphabet \Sigma.</description>
-    <pubDate>Wed, 26 Mar 2025 16:22:27 GMT</pubDate>
+    <pubDate>Wed, 26 Mar 2025 17:10:00 GMT</pubDate>
   </item><item>
     <title>Left recursion elimination</title>
     <link>https://quartz.jzhao.xyz/Topic/Left-recursion-elimination</link>
     <guid>https://quartz.jzhao.xyz/Topic/Left-recursion-elimination</guid>
+    <description></description>
+    <pubDate>Wed, 26 Mar 2025 17:10:00 GMT</pubDate>
+  </item><item>
+    <title>Parsing Tables</title>
+    <link>https://quartz.jzhao.xyz/Topic/Parsing-Tables</link>
+    <guid>https://quartz.jzhao.xyz/Topic/Parsing-Tables</guid>
     <description></description>
     <pubDate>Wed, 26 Mar 2025 16:22:27 GMT</pubDate>
   </item><item>
