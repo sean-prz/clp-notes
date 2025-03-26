@@ -1,25 +1,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://quartz.jzhao.xyz/Topic/LL(1)</loc>
-    <lastmod>2025-03-26T17:10:00.712Z</lastmod>
+    <lastmod>2025-03-26T17:11:31.633Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/Left-recursion-elimination</loc>
-    <lastmod>2025-03-26T17:10:00.711Z</lastmod>
+    <lastmod>2025-03-26T17:11:31.632Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/Nullable-First-Follow</loc>
-    <lastmod>2025-03-26T17:10:00.713Z</lastmod>
+    <lastmod>2025-03-26T17:11:31.634Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Topic/Operational-Semantics</loc>
+    <lastmod>2025-03-26T17:11:31.633Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/Parsing-Tables</loc>
     <lastmod>2025-03-26T16:22:27.351Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/Pumping-Lema</loc>
-    <lastmod>2025-03-26T17:10:00.712Z</lastmod>
+    <lastmod>2025-03-26T17:11:31.633Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/exercises</loc>
-    <lastmod>2025-03-26T17:10:00.721Z</lastmod>
+    <lastmod>2025-03-26T17:11:31.639Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
     <lastmod>2023-08-23T19:09:04.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/lectures</loc>
-    <lastmod>2025-03-26T17:10:00.722Z</lastmod>
+    <lastmod>2025-03-26T17:11:31.640Z</lastmod>
   </url></urlset>
