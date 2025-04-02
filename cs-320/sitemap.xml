@@ -1,34 +1,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Type-checking</loc>
-    <lastmod>2025-04-02T18:54:15.103Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Context-Free-grammar</loc>
+    <lastmod>2025-04-02T20:53:51.676Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/exercises</loc>
-    <lastmod>2025-04-02T18:54:15.107Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2023-08-23T19:09:04.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/lectures</loc>
-    <lastmod>2025-04-02T18:54:15.108Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Parse-trees</loc>
+    <lastmod>2025-04-02T20:53:51.694Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/LL(1)</loc>
-    <lastmod>2025-04-02T18:54:15.102Z</lastmod>
+    <lastmod>2025-04-02T20:53:51.708Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/Left-recursion-elimination</loc>
-    <lastmod>2025-04-02T18:54:15.102Z</lastmod>
+    <lastmod>2025-04-02T20:53:51.708Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/Minimising-Automata</loc>
-    <lastmod>2025-04-02T18:54:15.103Z</lastmod>
+    <lastmod>2025-04-02T20:53:51.710Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/Nullable-First-Follow</loc>
-    <lastmod>2025-04-02T18:54:15.103Z</lastmod>
+    <lastmod>2025-04-02T20:53:51.710Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/Operational-Semantics</loc>
-    <lastmod>2025-04-02T18:54:15.103Z</lastmod>
+    <lastmod>2025-04-02T20:53:51.709Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/Parsing-Tables</loc>
     <lastmod>2025-03-26T16:22:27.351Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Topic/Pumping-Lema</loc>
-    <lastmod>2025-04-02T18:54:15.103Z</lastmod>
+    <lastmod>2025-04-02T20:53:51.709Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Type-checking</loc>
+    <lastmod>2025-04-02T20:53:51.711Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/exercises</loc>
+    <lastmod>2025-04-02T20:53:51.722Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/</loc>
+    <lastmod>2023-08-23T19:09:04.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lectures</loc>
+    <lastmod>2025-04-02T20:53:51.724Z</lastmod>
   </url></urlset>

@@ -10,61 +10,61 @@
     <link>https://quartz.jzhao.xyz/lectures</link>
     <guid>https://quartz.jzhao.xyz/lectures</guid>
     <description>CS-320 L01a.pdf CS-320 L01b.pdf CS-320 L02.pdf CS-320 lec03a.pdf CS-320 lec03b.pdf CS-320 lec04a.pdf CS-320 lec04b.pdf cs-320 lec05a.pdf cs-320 lec06a.pdf cs-320 lec06b.pdf cs-320 lec07a.pdf cs-320 lec07b.pdf.</description>
-    <pubDate>Wed, 02 Apr 2025 18:54:15 GMT</pubDate>
+    <pubDate>Wed, 02 Apr 2025 20:53:51 GMT</pubDate>
   </item><item>
     <title>exercises</title>
     <link>https://quartz.jzhao.xyz/exercises</link>
     <guid>https://quartz.jzhao.xyz/exercises</guid>
     <description> ex-01.pdf ex-01-sol.pdf ex-02.pdf ex-02-sol.pdf ex-03.pdf ex-03-sol.pdf .</description>
-    <pubDate>Wed, 02 Apr 2025 18:54:15 GMT</pubDate>
+    <pubDate>Wed, 02 Apr 2025 20:53:51 GMT</pubDate>
   </item><item>
     <title>Type checking</title>
     <link>https://quartz.jzhao.xyz/Type-checking</link>
     <guid>https://quartz.jzhao.xyz/Type-checking</guid>
-    <description></description>
-    <pubDate>Wed, 02 Apr 2025 18:54:15 GMT</pubDate>
+    <description>No idea what to put here, probably some tips and tricks but I don’t have any rn.</description>
+    <pubDate>Wed, 02 Apr 2025 20:53:51 GMT</pubDate>
   </item><item>
     <title>Minimising Automata</title>
     <link>https://quartz.jzhao.xyz/Topic/Minimising-Automata</link>
     <guid>https://quartz.jzhao.xyz/Topic/Minimising-Automata</guid>
-    <description></description>
-    <pubDate>Wed, 02 Apr 2025 18:54:15 GMT</pubDate>
+    <description>Probably useless to know how to do it enft.</description>
+    <pubDate>Wed, 02 Apr 2025 20:53:51 GMT</pubDate>
   </item><item>
     <title>Nullable-First-Follow</title>
     <link>https://quartz.jzhao.xyz/Topic/Nullable-First-Follow</link>
     <guid>https://quartz.jzhao.xyz/Topic/Nullable-First-Follow</guid>
     <description> img { display: block !important; margin-left: auto !important; margin-right: auto !important; } .markdown-source-view.mod-cm6 .cm-content &gt; * { margin: auto auto !important; } Note: We could use weather epsilon is in the first set to determine if a variable is nullable.</description>
-    <pubDate>Wed, 02 Apr 2025 18:54:15 GMT</pubDate>
+    <pubDate>Wed, 02 Apr 2025 20:53:51 GMT</pubDate>
   </item><item>
     <title>Operational Semantics</title>
     <link>https://quartz.jzhao.xyz/Topic/Operational-Semantics</link>
     <guid>https://quartz.jzhao.xyz/Topic/Operational-Semantics</guid>
-    <description>No idea yet.</description>
-    <pubDate>Wed, 02 Apr 2025 18:54:15 GMT</pubDate>
+    <description>No idea yet what to put for this topic.</description>
+    <pubDate>Wed, 02 Apr 2025 20:53:51 GMT</pubDate>
   </item><item>
     <title>Pumping Lema</title>
     <link>https://quartz.jzhao.xyz/Topic/Pumping-Lema</link>
     <guid>https://quartz.jzhao.xyz/Topic/Pumping-Lema</guid>
     <description>Let L be a regular language over some alphabet \Sigma.</description>
-    <pubDate>Wed, 02 Apr 2025 18:54:15 GMT</pubDate>
+    <pubDate>Wed, 02 Apr 2025 20:53:51 GMT</pubDate>
   </item><item>
     <title>LL(1)</title>
     <link>https://quartz.jzhao.xyz/Topic/LL(1)</link>
     <guid>https://quartz.jzhao.xyz/Topic/LL(1)</guid>
-    <description>Checking if LL(1) Parsing tables These two rules are sufficient to parse any tables .</description>
-    <pubDate>Wed, 02 Apr 2025 18:54:15 GMT</pubDate>
+    <description> img { display: block !important; margin-left: auto !important; margin-right: auto !important; } .markdown-source-view.mod-cm6 .cm-content &gt; * { margin: auto auto !important; } Checking if LL(1) Parsing tables These two rules are sufficient to parse any tables .</description>
+    <pubDate>Wed, 02 Apr 2025 20:53:51 GMT</pubDate>
   </item><item>
     <title>Left recursion elimination</title>
     <link>https://quartz.jzhao.xyz/Topic/Left-recursion-elimination</link>
     <guid>https://quartz.jzhao.xyz/Topic/Left-recursion-elimination</guid>
     <description>if you have A = Ab | c it becomes A = cA&#039; A&#039; = bA&#039; | \epsilon.</description>
-    <pubDate>Wed, 02 Apr 2025 18:54:15 GMT</pubDate>
+    <pubDate>Wed, 02 Apr 2025 20:53:51 GMT</pubDate>
   </item><item>
-    <title>Parsing Tables</title>
-    <link>https://quartz.jzhao.xyz/Topic/Parsing-Tables</link>
-    <guid>https://quartz.jzhao.xyz/Topic/Parsing-Tables</guid>
-    <description></description>
-    <pubDate>Wed, 26 Mar 2025 16:22:27 GMT</pubDate>
+    <title>Parse trees</title>
+    <link>https://quartz.jzhao.xyz/Parse-trees</link>
+    <guid>https://quartz.jzhao.xyz/Parse-trees</guid>
+    <description> img { display: block !important; margin-left: auto !important; margin-right: auto !important; } .markdown-source-view.mod-cm6 .cm-content &gt; * { margin: auto auto !important; } .</description>
+    <pubDate>Wed, 02 Apr 2025 20:53:51 GMT</pubDate>
   </item>
     </channel>
   </rss>
